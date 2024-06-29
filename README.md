@@ -1,5 +1,3 @@
-Here's the updated `README.md` file with your GitHub repository URL:
-
 # WiFi Password Viewer
 
 This Streamlit application displays the SSIDs and passwords of all saved WiFi profiles on your Windows device. It provides the following features:
